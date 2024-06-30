@@ -1,0 +1,65 @@
+
+
+Employee Name: amex
+Gender: Male
+Phone Number: 1234567
+Address: testing
+Username: alex
+Password: 123
+
+Employee Name: amex123
+Gender: Male
+Phone Number: 1234567
+Address: testing
+Username: alex232e
+Password: 12323e
+
+Employee Name: anuradha
+Gender: Male
+Phone Number: 075326363
+Address: 3ed
+Username: test
+Password: test
+
+Employee Name: alex1
+Gender: Male
+Phone Number: 013212223
+Address: sdcdewc
+Username: aaa
+Password: aaa
+
+Employee Name: aman
+Gender: Female
+Phone Number: qw
+Address: qwaa
+Username: aa
+Password: aa
+
+Employee Name: alex shurly
+Gender: Male
+Phone Number: 0741600123
+Address: no.45 , maxweell road , toronto
+Username: alexhr
+Password: alexhr
+
+Employee Name: test
+Gender: Male
+Phone Number: 1234555
+Address: test
+Username: 123
+Password: 123
+
+Employee Name: test
+Gender: Male
+Phone Number: 123456
+Address: test
+Username: 123
+Password: 123
+
+Employee Name: test
+Gender: Male
+Phone Number: 123
+Address: 123
+Username: 123
+Password: 123
+

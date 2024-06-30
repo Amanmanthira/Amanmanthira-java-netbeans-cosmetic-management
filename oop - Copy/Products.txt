@@ -1,0 +1,13 @@
+test,Face Wash,Men,1200,
+fair and lovely,Face Wash,Women,1200,testing 
+test,Face Wash,Men,1233,
+test,Face Wash,Men,1233,
+test,Face Wash,Men,1233,
+test,Face Wash,Men,1233,
+test,Face Wash,Men,1233,
+test,Face Wash,Men,1233,
+test,Face Wash,Men,1233,
+
+women,Shampoo,Women,2000,
+test,Face Wash,Women,300,
+test,Shampoo,Women,200,
