@@ -1,24 +1,30 @@
-##Cosmetic Management System##
-Welcome to the Cosmetic Management System, a simple yet powerful application developed using Java and NetBeans. This project features a modern and intuitive GUI built with NetBeans Swing, making it user-friendly and visually appealing.
+<p>Welcome to the <strong>Cosmetic Management System</strong>, a sleek and efficient application developed using Java and NetBeans. This project boasts a modern and intuitive GUI created with NetBeans Swing, making it both user-friendly and visually appealing.</p>
 
-Features
-*********************************************
-Admin Role:
-Add New Cashier Account: Admin can create new cashier accounts to manage the system.
-View Products: Admin can view the list of all products available in the system.
-Search Products: Admin can search for specific products using various criteria.
-Add Products: Admin can add new products to the inventory.
-*****************************************************
-Cashier Role:
-Add New Products: Cashiers can add new products to the system.
-View Products: Cashiers can view the list of products.
-Search Products: Cashiers can search for products based on different parameters.
-**************************************************************
-Technologies Used
-Java
-NetBeans IDE
-Swing (for GUI)
-This project aims to simplify the management of cosmetic products by providing a clear distinction between admin and cashier functionalities, ensuring smooth and efficient operations within the system.
+## Features
+
+<h3 style="color: #2E8B57;">Admin Role:</h3>
+<ul>
+  <li><strong>Add New Cashier Account:</strong> Easily create new cashier accounts to manage the system.</li>
+  <li><strong>View Products:</strong> Access the complete list of products available in the system.</li>
+  <li><strong>Search Products:</strong> Quickly find specific products using various search criteria.</li>
+  <li><strong>Add Products:</strong> Seamlessly add new products to the inventory.</li>
+</ul>
+
+<h3 style="color: #4682B4;">Cashier Role:</h3>
+<ul>
+  <li><strong>Add New Products:</strong> Conveniently add new products to the system.</li>
+  <li><strong>View Products:</strong> View the comprehensive list of products.</li>
+  <li><strong>Search Products:</strong> Efficiently search for products based on different parameters.</li>
+</ul>
+
+## Technologies Used
+<ul>
+  <li><strong style="color: #DAA520;">Java</strong></li>
+  <li><strong style="color: #DAA520;">NetBeans IDE</strong></li>
+  <li><strong style="color: #DAA520;">Swing (for GUI)</strong></li>
+</ul>
+
+<p>This project aims to simplify the management of cosmetic products by providing a clear distinction between admin and cashier functionalities, ensuring smooth and efficient operations within the system.</p>
 
 
 ![Screenshot 2024-06-30 105909](https://github.com/Amanmanthira/Amanmanthira-java-netbeans-cosmetic-management/assets/126964186/c54cbb71-418d-4dc0-b396-33d3806577df)
