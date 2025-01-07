@@ -1,4 +1,4 @@
-<p>Welcome to the <strong>Cosmetic Management System</strong>, a sleek and efficient application developed using Java and NetBeans. This project boasts a modern and intuitive GUI created with NetBeans Swing, making it both user-friendly and visually appealing.</p>
+## Welcome to the <strong>Cosmetic Management System</strong>, a sleek and efficient application developed using Java and NetBeans. This project boasts a modern and intuitive GUI created with NetBeans Swing, making it both user-friendly and visually appealing. ##
 
 ## Features
 
