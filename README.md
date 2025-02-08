@@ -1,7 +1,6 @@
 # 🌟 Welcome to the **Cosmetic Management System** 🌟
 
 A sleek, efficient, and user-friendly application developed using Java and NetBeans. This modern system features an intuitive GUI built with NetBeans Swing, offering a seamless user experience that combines both functionality and style.
-
 ---
 
 ## 💼 **Admin Role:**
